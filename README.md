@@ -1,4 +1,4 @@
 The graphplotter.java scans a text file with data on it and makes a bar graph with that information.
 The invoice printer takes the item name, price and quatitiy and makes a receipt, organising the information the same way with each item.
 The salesvisualiser organises the sales of each month in 2016, 2017 and 2018 into a bar graph, with twelve groups of three (a group for each month, consisting of the sales for that month in 2016, 2017 and 2018)
-
+The wordsearcher.java scans a text file that contains lots of words. The user can then type in a word and the word will come up if it is in the text file. The user can also type in part of a word and all of the words that contain that part will come up (e.g. if you type "ban", you would get a list of all the words that include "ban", like "banana", "bandana", "banner", etc).
